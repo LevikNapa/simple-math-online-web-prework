@@ -1,9 +1,10 @@
-def addition(num1, num2)
+def addition(5, 3)
+ 5 + 3 = 8
 end
 
-def subtraction(num1, num2)
+def subtraction(10, 6)
+  10 - 6 = 4
 end
-
 def division(num1, num2)
 end
 
